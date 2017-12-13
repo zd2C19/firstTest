@@ -20,5 +20,6 @@
 ![画像](https://www.google.jp/img.jpg)
 
 |aa|bb|cc|
+|:--:|:--:|:--:|
 |sss|sssss|rrr|
 |rette|rr|rrr|
